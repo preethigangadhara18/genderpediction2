@@ -22,4 +22,4 @@ if st.button('predict') :
      st.write("Male")
      st.balloons()
 
-st.image(r'C:\Users\preet\OneDrive\Documents\PREETHI PERSONAL\python codes\dp1111.jpg')
+st.image('dp1111.jpg')
